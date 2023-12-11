@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129455027629",
+    "project_id": "motor-3123d",
+    "storage_bucket": "motor-3123d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129455027629:android:d590ca2a2b941706571d24",
+        "android_client_info": {
+          "package_name": "com.example.api_prak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLc7y8x8BP1kC6dl1vtS0SOCkajeZVm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129455027629:android:5bba5c9d22d6c4bb571d24",
+        "android_client_info": {
+          "package_name": "com.example.motor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLc7y8x8BP1kC6dl1vtS0SOCkajeZVm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
